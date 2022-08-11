@@ -1,186 +1,190 @@
 [
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-xhdpi/ic_launcher_foreground.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-xxxhdpi_ic_linear_layout.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-xxxhdpi/ic_linear_layout.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-xxhdpi_ic_linear_layout.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-xxhdpi/ic_linear_layout.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-hdpi_ic_grid_layout.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-hdpi/ic_grid_layout.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.wordsapp-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-anydpi-v21/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.wordsapp-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-ldpi_ic_grid_layout.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-ldpi/ic_grid_layout.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.example.wordsapp-main-39:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-xhdpi_ic_linear_layout.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-xhdpi/ic_linear_layout.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-xxhdpi_ic_grid_layout.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-xxhdpi/ic_grid_layout.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-ldpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-mdpi/ic_launcher_background.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.example.wordsapp-main-39:/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-ldpi_ic_linear_layout.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-ldpi/ic_linear_layout.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-mdpi_ic_linear_layout.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-mdpi/ic_linear_layout.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-xhdpi_ic_grid_layout.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-xhdpi/ic_grid_layout.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-xhdpi_ic_linear_layout.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-xhdpi/ic_linear_layout.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.example.wordsapp-main-39:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-mdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.example.wordsapp-main-39:/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-ldpi_ic_linear_layout.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-ldpi/ic_linear_layout.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.example.wordsapp-main-39:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/layout_fragment_word_list.xml.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/layout/fragment_word_list.xml"
+    },
+    {
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
         "merged": "com.example.wordsapp-merged_res-37:/menu_layout_menu.xml.flat",
         "source": "com.example.wordsapp-main-39:/menu/layout_menu.xml"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.example.wordsapp-main-39:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-xxxhdpi/ic_launcher_background.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-anydpi-v21/ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-mdpi_ic_grid_layout.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-mdpi/ic_grid_layout.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-hdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-hdpi/ic_launcher_foreground.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-hdpi_ic_linear_layout.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-hdpi/ic_linear_layout.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.example.wordsapp-main-39:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-hdpi/ic_launcher_background.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/layout_item_view.xml.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/layout/item_view.xml"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.wordsapp-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-anydpi-v21_ic_grid_layout.xml.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-anydpi-v21/ic_grid_layout.xml"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-anydpi-v21_ic_linear_layout.xml.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-anydpi-v21/ic_linear_layout.xml"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-xxhdpi/ic_launcher_background.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-ldpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-xxxhdpi_ic_grid_layout.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-xxxhdpi/ic_grid_layout.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-xxhdpi_ic_linear_layout.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-xxhdpi/ic_linear_layout.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-ldpi/ic_launcher_background.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-xxxhdpi_ic_linear_layout.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-xxxhdpi/ic_linear_layout.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-mdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-mdpi/ic_launcher_foreground.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/navigation_nav_graph.xml.flat",
-        "source": "com.example.wordsapp-main-39:/navigation/nav_graph.xml"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-xxhdpi_ic_grid_layout.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-xxhdpi/ic_grid_layout.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-ldpi_ic_grid_layout.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-ldpi/ic_grid_layout.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-xxxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.wordsapp-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-anydpi-v21_ic_grid_layout.xml.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-anydpi-v21/ic_grid_layout.xml"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/layout_fragment_word_list.xml.flat",
-        "source": "com.example.wordsapp-main-39:/layout/fragment_word_list.xml"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-mdpi_ic_linear_layout.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-mdpi/ic_linear_layout.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-anydpi-v21_ic_linear_layout.xml.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-anydpi-v21/ic_linear_layout.xml"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/menu_layout_menu.xml.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/menu/layout_menu.xml"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-hdpi_ic_grid_layout.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-hdpi/ic_grid_layout.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-mdpi_ic_grid_layout.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-mdpi/ic_grid_layout.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/layout_fragment_letter_list.xml.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/layout/fragment_letter_list.xml"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-xxhdpi/ic_launcher_foreground.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/layout_activity_main.xml.flat",
-        "source": "com.example.wordsapp-main-39:/layout/activity_main.xml"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-hdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-anydpi-v21/ic_launcher_foreground.xml"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-xhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-anydpi-v21/ic_launcher_background.xml"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/navigation_nav_graph.xml.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/navigation/nav_graph.xml"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-xhdpi/ic_launcher_background.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/layout_fragment_letter_list.xml.flat",
-        "source": "com.example.wordsapp-main-39:/layout/fragment_letter_list.xml"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-hdpi_ic_linear_layout.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-hdpi/ic_linear_layout.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-xxxhdpi_ic_grid_layout.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-xxxhdpi/ic_grid_layout.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-ldpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-ldpi/ic_launcher_foreground.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/drawable-xhdpi_ic_grid_layout.png.flat",
-        "source": "com.example.wordsapp-pngs-32:/drawable-xhdpi/ic_grid_layout.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-pngs-32:/drawable-xxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.example.wordsapp-merged_res-37:/layout_item_view.xml.flat",
-        "source": "com.example.wordsapp-main-39:/layout/item_view.xml"
-    },
-    {
-        "merged": "com.example.wordsapp-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.wordsapp-main-39:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/joicerodrigues/.gradle/daemon/7.4.2/com.example.wordsapp-main-39:/mipmap-mdpi/ic_launcher.png"
     }
 ]

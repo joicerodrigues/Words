@@ -88,7 +88,7 @@ class WordAdapter(private val letterId: String, context: Context) :
         holder.button.setOnClickListener {
             val queryUrl: Uri = Uri.parse("${DetailActivity.SEARCH_PREFIX}${item}")
             val intent = Intent(Intent.ACTION_VIEW, queryUrl) //TODO action_view é uma intent genérica que aceita um URII
-            context.startActivity(intent)
+            context.startActivity(intent) //TODO inicia outro app e transmite pela intent
         }
     }
 
