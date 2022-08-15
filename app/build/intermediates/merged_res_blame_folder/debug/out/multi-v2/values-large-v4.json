@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.wordsapp-mergeDebugResources-35:/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.example.wordsapp-mergeDebugResources-36:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
                     "source": "/home/joicerodrigues/.gradle/caches/transforms-3/4bb83f73525e41edf6b7df59b939b6f1/transformed/material-1.7.0-alpha02/res/values-large-v4/values-large-v4.xml",

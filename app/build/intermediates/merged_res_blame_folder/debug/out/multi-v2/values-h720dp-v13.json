@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.wordsapp-mergeDebugResources-35:/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "com.example.wordsapp-mergeDebugResources-36:/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
                     "source": "/home/joicerodrigues/.gradle/caches/transforms-3/0aa1b06516bb73b6e72de4eac47161ae/transformed/appcompat-1.4.2/res/values-h720dp-v13/values-h720dp-v13.xml",

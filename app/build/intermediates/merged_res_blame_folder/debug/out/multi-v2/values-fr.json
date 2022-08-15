@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.wordsapp-mergeDebugResources-35:/values-fr/values-fr.xml",
+            "outputFile": "com.example.wordsapp-mergeDebugResources-36:/values-fr/values-fr.xml",
             "map": [
                 {
                     "source": "/home/joicerodrigues/.gradle/caches/transforms-3/676f7bce3e2d43345ce73dcacf9f3e0a/transformed/core-1.8.0/res/values-fr/values-fr.xml",

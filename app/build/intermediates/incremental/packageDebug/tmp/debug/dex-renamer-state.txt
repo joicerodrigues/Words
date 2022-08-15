@@ -1,4 +1,4 @@
-#Mon Aug 15 12:02:13 BRT 2022
+#Mon Aug 15 16:49:38 BRT 2022
 base.0=/home/joicerodrigues/AndroidStudioProjects/Words/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
