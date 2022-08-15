@@ -24,7 +24,6 @@ import android.widget.Button
 import androidx.annotation.RequiresApi
 import androidx.navigation.findNavController
 import androidx.recyclerview.widget.RecyclerView
-import android.content.Intent as Intent
 
 /**
  * Adapter for the [RecyclerView] in [MainActivity].
@@ -68,13 +67,6 @@ class LetterAdapter :
 
         // Assigns a [OnClickListener] to the button contained in the [ViewHolder]
         holder.button.setOnClickListener {
-            val context = holder.view.context //TODO acessando uma referência ao context
-
-            val intent = Intent(context, DetailActivity::class.java) //TODO intent transmitindo o contexto e o nome da classe da atividade de destino
-
-            intent.putExtra(DetailActivity.LETTER, holder.button.text.toString()) //TODO putExtra transmitindo "letter" como 1° argumento
-
-            context.startActivity(intent) //TODO transmitindo a intent com o método startActivity()
             // Create an action from WordList to DetailList
             // using the required arguments
             val action = LetterListFragmentDirections.actionLetterListFragmentToWordListFragment(letter = holder.button.text.toString())
